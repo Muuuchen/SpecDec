@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/muuuchen/workspace/specdec/build/src",
+  "command": "/usr/bin/g++  -I/home/muuuchen/workspace/specdec/cpp/src -O3 -DNDEBUG -o CMakeFiles/cast.dir/cast.cpp.o -c /home/muuuchen/workspace/specdec/cpp/src/cast.cpp",
+  "file": "/home/muuuchen/workspace/specdec/cpp/src/cast.cpp"
+},
+{
+  "directory": "/home/muuuchen/workspace/specdec/build/tests",
+  "command": "/usr/bin/g++  -I/home/muuuchen/workspace/specdec/cpp/src -O3 -DNDEBUG -o CMakeFiles/test1.dir/test1.cpp.o -c /home/muuuchen/workspace/specdec/cpp/tests/test1.cpp",
+  "file": "/home/muuuchen/workspace/specdec/cpp/tests/test1.cpp"
+}
+]

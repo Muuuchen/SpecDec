@@ -1,0 +1,21 @@
+Start testing: Apr 07 11:09 CST
+----------------------------------------------------------
+1/1 Testing: mytest1
+1/1 Test: mytest1
+Command: "/home/muuuchen/workspace/specdec/cpp/build/tests/test1"
+Directory: /home/muuuchen/workspace/specdec/cpp/build/tests
+"mytest1" start time: Apr 07 11:09 CST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"mytest1" end time: Apr 07 11:09 CST
+"mytest1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 07 11:09 CST

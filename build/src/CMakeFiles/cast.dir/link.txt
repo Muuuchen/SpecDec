@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcast.a CMakeFiles/cast.dir/cast.cpp.o
+/usr/bin/ranlib libcast.a

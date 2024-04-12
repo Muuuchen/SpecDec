@@ -1,0 +1,11 @@
+/home/muuuchen/workspace/specdec/build/CMakeFiles/test.dir
+/home/muuuchen/workspace/specdec/build/CMakeFiles/edit_cache.dir
+/home/muuuchen/workspace/specdec/build/CMakeFiles/rebuild_cache.dir
+/home/muuuchen/workspace/specdec/build/src/CMakeFiles/cast.dir
+/home/muuuchen/workspace/specdec/build/src/CMakeFiles/test.dir
+/home/muuuchen/workspace/specdec/build/src/CMakeFiles/edit_cache.dir
+/home/muuuchen/workspace/specdec/build/src/CMakeFiles/rebuild_cache.dir
+/home/muuuchen/workspace/specdec/build/tests/CMakeFiles/test1.dir
+/home/muuuchen/workspace/specdec/build/tests/CMakeFiles/test.dir
+/home/muuuchen/workspace/specdec/build/tests/CMakeFiles/edit_cache.dir
+/home/muuuchen/workspace/specdec/build/tests/CMakeFiles/rebuild_cache.dir
